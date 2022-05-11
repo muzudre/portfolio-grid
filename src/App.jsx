@@ -9,6 +9,18 @@ function App() {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet sit
           explicabo inventore repellendus.
         </p>
+
+        {/* <div>
+          <div className="h-16 bg-blue-500 sm:h-auto sm:square"></div>
+          <h1 className="text-2xl font-extrabold">
+            Lorem ipsum dolor sit ame.
+          </h1>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae
+            similique incidunt quaerat sapiente.
+          </p>
+        </div> */}
+
         <div className="h-16 bg-blue-500 sm:h-auto sm:square"></div>
         <div className="h-16 bg-blue-500 sm:h-auto sm:square"></div>
         <div className="h-16 bg-red-500 sm:h-auto sm:square"></div>
